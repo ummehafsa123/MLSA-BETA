@@ -10,7 +10,7 @@ import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
 /**
- * Home background image
+ * Home background image.
  *
  * Below is a sample image. Upload the image of your choice into the "images"
  * directory and import here for use. Then, set imageAltText to string that 
